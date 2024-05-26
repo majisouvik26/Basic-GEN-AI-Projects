@@ -43,7 +43,7 @@ if file is not None:
 submit=st.button("Tell me")
 
 input_prompt="""
-ou are an expert in invoice analysis. I will upload an invoice image, and you need to answer any questions I ask based on the details in the image.
+You are an expert in invoice analysis. I will upload an invoice image, and you need to answer any questions I ask based on the details in the image.
 """
 
 if submit:
