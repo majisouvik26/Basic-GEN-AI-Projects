@@ -20,7 +20,7 @@ conda create -p venv python=3.9 -y
 conda activate venv
 ```
 
-4. Install the required dependencies from the `requirements.txt`(you can find this file [here](https://huggingface.co/spaces/souvikmaji22/lfw_face_recognition)) file:
+4. Install the required dependencies from the `requirements.txt`(you can find this file [here]([https://huggingface.co/spaces/souvikmaji22/lfw_face_recognition](https://github.com/majisouvik26/GEN-AI-Projects/blob/main/requirements.txt))) file:
 
 ```
 pip install -r requirements.txt
