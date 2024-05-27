@@ -2,6 +2,10 @@
 
 This application allows you to upload multiple PDF files and ask questions related to the content in those files. It uses the Google Generative AI (Gemini-Pro) model and the Langchain library to process the PDF files, split the text into chunks, create embeddings, and answer your questions based on the relevant context.
 
+## Live Demo
+
+You can access the live demo of this application on Hugging Face Spaces: [https://huggingface.co/spaces/souvikmaji22/chat-with-multiple_pdf](https://huggingface.co/spaces/souvikmaji22/chat-with-multiple_pdf)
+
 ## Clone the Repository
 
 To get started, you'll need to clone the repository to your local machine:
