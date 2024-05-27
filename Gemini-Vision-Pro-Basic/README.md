@@ -43,7 +43,7 @@ Replace `your_api_key_here` with your actual Google API key.
 2. Run the Streamlit app using the following command:
 
 ```
-streamlit run app.py
+streamlit run vision.py
 ```
 
 3. The app will open in your default web browser. If it doesn't open automatically, you can access it by clicking the URL provided in the terminal.
