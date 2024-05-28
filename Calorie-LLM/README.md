@@ -74,10 +74,3 @@ streamlit run nutritionist.py
 ![Screenshot 2024-05-28 174210](https://github.com/majisouvik26/GEN-AI-Projects/assets/153885959/ce26fab1-d67f-495d-8158-703b1d2166c9)
 
 ![Screenshot 2024-05-28 174258](https://github.com/majisouvik26/GEN-AI-Projects/assets/153885959/7014db75-71f7-4f54-bb96-f5da11b2f94b)
-
-
-![Nutritional Analysis](https://i.imgur.com/YourImageURL.png)
-
-Note: Replace `https://i.imgur.com/YourImageURL.png` with the actual image URLs for your project.
-
-That's it! You now have a README file that covers cloning the repository, prerequisites, environment setup, running the app, usage, and includes placeholders for images related to uploading the food image and displaying the nutritional analysis. Don't forget to replace the image URLs with your actual image URLs.
