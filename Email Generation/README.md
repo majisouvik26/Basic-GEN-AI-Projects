@@ -58,5 +58,3 @@ streamlit run email.py
 ## Image Sections
 ![Screenshot 2024-05-31 000648](https://github.com/majisouvik26/GEN-AI-Projects/assets/153885959/89498082-353f-4022-99d9-da5c1fd11598)
 
-
-![Generated Email](https://i.imgur.com/YourImageURL.png)
