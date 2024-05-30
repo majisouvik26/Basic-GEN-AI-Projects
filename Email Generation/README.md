@@ -60,7 +60,3 @@ streamlit run email.py
 
 
 ![Generated Email](https://i.imgur.com/YourImageURL.png)
-
-Note: Replace `https://i.imgur.com/YourImageURL.png` with the actual image URLs for your project.
-
-That's it! You now have a README file that covers cloning the repository, prerequisites, environment setup, running the app, usage, and includes placeholders for images related to the email generation interface and the generated email. Don't forget to replace the image URLs with your actual image URLs.
