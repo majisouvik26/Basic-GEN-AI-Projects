@@ -12,3 +12,5 @@ langchain-groq
 pypdf
 youtube_transcript_api
 pathlib
+crewai
+crewai_tools
